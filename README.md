@@ -72,4 +72,4 @@ In order to GET/UPDATE/DELETE you can use http endpoints
 ### How it works
 
 Here is the general image on how the storage works
-![storage](https://raw.githubusercontent.com/strogiyotec/go-wiskey/master/images/Architecture.jpg)
+![storage](https://raw.githubusercontent.com/f228476653/PersistentKeyValueStorage/main/images/Architecture.jpg)
